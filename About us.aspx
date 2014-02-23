@@ -2,18 +2,19 @@
     CodeFile="About us.aspx.cs" Inherits="_Default" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
-    <title>About us | Coins Share</title>
+    <title>About us | PhantomRepair</title>
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        Welcome to Coins Share
+        Welcome to The PhantomRepair
     </h2>
     <p>
-        Easy Digital Currency Entry
+        Easiest Computer Remote/Repair</p>
+        Without the Cost
     </p>
     <p>
-        I have tried to enter the digital currency field for a long while with a great amount of unneeded stress and work.</P>
-        Coins Share takes that stress away by eliminating the high cost, high labor barrier for managing and profiting off </P>
-        Bitcoin and a variety of other digital currencies (per demand).
+        I have Examined the stressful frustration in hundreds of people falling victim to an unmaintained computer.<p>
+        PhantomRepair will maintain your computer right in front of you, remotely; so we don't have to crowd your comfortability an privacy of your home.</p>
+        At The lowest cost for your overall care. PhantomRepair will treat an maintain dozens of symptoms which have held your computers potential to it's final hault.
     </p>
 </asp:Content>
